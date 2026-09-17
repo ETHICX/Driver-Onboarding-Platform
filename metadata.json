@@ -1,0 +1,6 @@
+{
+  "name": "Driver Onboarding Platform",
+  "description": "Courier and logistics driver onboarding platform with account registration, OTP verification, multi-step application, document uploads, and administrator review workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
